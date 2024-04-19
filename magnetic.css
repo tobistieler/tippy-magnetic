@@ -1,5 +1,5 @@
 .tippy-box[data-theme~=magneticl]
-{background-color:#373C42;font-weight:400;font-size: 12px;font-family: Inter, sans-serif;line-height: 18px; text-align: left;}
+{background-color:#373C42;font-weight:400;font-size: 12px;font-family: Inter, sans-serif;line-height: 18px; text-align: left;border-radius: 6px;padding-left: 12px;padding-right: 12px; padding-top: 8px;padding-bottom: 12px}
 .tippy-box[data-theme~=magneticl][data-placement^=top]>
 .tippy-arrow:before{border-top-color:#373C42}
 .tippy-box[data-theme~=magneticl][data-placement^=bottom]>
