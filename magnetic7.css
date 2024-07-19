@@ -1,0 +1,14 @@
+.tippy-box[data-theme~=magneticl]
+{background-color:var(--inverse-bg-weak-default);font-weight:400;font-size: 12px;font-family: Inter, sans-serif;line-height: 18px; text-align: left;border-radius: 6px;padding-left: 4px;padding-right: 4px; padding-top: 1px;padding-bottom: 1px;}
+.tippy-box[data-theme~=magneticl][data-placement^=top]>
+.tippy-arrow:before{border-top-color:var(--inverse-bg-weak-default)}
+.tippy-box[data-theme~=magneticl][data-placement^=bottom]>
+.tippy-arrow:before{border-bottom-color:var(--inverse-bg-weak-default)}
+.tippy-box[data-theme~=magneticl][data-placement^=left]>
+.tippy-arrow:before{border-left-color:var(--inverse-bg-weak-default)}
+.tippy-box[data-theme~=magneticl][data-placement^=right]>
+.tippy-arrow:before{border-right-color:var(--inverse-bg-weak-default)}
+.tippy-box[data-theme~=magneticl]>
+.tippy-backdrop{background-color:var(--inverse-bg-weak-default)}
+.tippy-box[data-theme~=magneticl]>
+.tippy-svg-arrow{fill:var(--inverse-bg-weak-default)}
