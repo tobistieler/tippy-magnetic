@@ -12,4 +12,4 @@
 .tippy-backdrop{background-color:var(--iron---inverse-bg-weak-default);}
 .tippy-box[data-theme~=magneticl]>
 .tippy-svg-arrow{fill:var(--iron---inverse-bg-weak-default)}
-
+.tippy-svg-arrow2{fill:var(--iron---inverse-bg-weak-default)}
